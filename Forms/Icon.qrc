@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../PBL_Image&amp;Icon/yellow_battery.jpg</file>
+    <file>../PBL_Image&amp;Icon/night_light_icon.png</file>
+    <file>../PBL_Image&amp;Icon/warning.png</file>
+    <file>../PBL_Image&amp;Icon/png-transparent-warning-sign-computer-icons-warning-icon-angle-triangle-warning-sign-thumbnail.png</file>
+    <file>../PBL_Image&amp;Icon/icons8-lightning-67.png</file>
+    <file>../PBL_Image&amp;Icon/icons8-full-battery-32.png</file>
+    <file>../PBL_Image&amp;Icon/brightness-settings.png</file>
+    <file>../PBL_Image&amp;Icon/capacity.png</file>
+    <file>../PBL_Image&amp;Icon/charge-battery-dark.png</file>
+    <file>../PBL_Image&amp;Icon/charge-battery-light.png</file>
+    <file>../PBL_Image&amp;Icon/external-brightness-settings.png</file>
+    <file>../PBL_Image&amp;Icon/icons8-android-l-battery.gif</file>
+    <file>../PBL_Image&amp;Icon/icons8-charging-battery.gif</file>
+    <file>../PBL_Image&amp;Icon/icons8-charging-battery (1).gif</file>
+    <file>../PBL_Image&amp;Icon/icons8-empty-battery-64.png</file>
+    <file>../PBL_Image&amp;Icon/icons8-full-battery.gif</file>
+    <file>../PBL_Image&amp;Icon/icons8-full-battery-48.png</file>
+  </qresource>
+</RCC>
